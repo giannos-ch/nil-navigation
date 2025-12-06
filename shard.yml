@@ -1,0 +1,9 @@
+name: nil-navigation
+version: 0.1.0
+
+authors:
+  - Giannos <giannos.chatziagapis@gmail.com>
+
+crystal: '>= 1.17.1'
+
+license: MIT
